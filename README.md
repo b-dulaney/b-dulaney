@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🚀 About Me
+I'm a software engineer based in Denver, CO.
 
-<!--
-**b-dulaney/b-dulaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been building React and Angular apps professionally for the last 5 years. Sometimes I play around with SvelteKit when I'm not out in the mountains.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Typescript,
+React,
+Angular,
+Svelte,
+Postgres, 
+Tailwind,
+MUI,
+Python, 
+AWS Serverless 
+
+... and lots of other stuff that I'm too lazy to list  
+
+
+
+## 🔗 Links
+[![powder-hound](https://img.shields.io/badge/powder_hound-0f172a?style=for-the-badge&logo=svelte&logoColor=white)](https://powderhound.io)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanfdulaney/)
+
