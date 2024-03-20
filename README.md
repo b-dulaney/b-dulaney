@@ -22,5 +22,7 @@ AWS Serverless
 ## 🔗 Links
 [![powder-hound](https://img.shields.io/badge/powder_hound-0f172a?style=for-the-badge&logo=svelte&logoColor=white)](https://powderhound.io)
 
+[![sveltekit-web-scraper](https://img.shields.io/badge/sveltekit_web_scraper-F96743?style=for-the-badge&logo=svelte&logoColor=white)](https://sveltekit-web-scraper.vercel.app)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanfdulaney/)
 
